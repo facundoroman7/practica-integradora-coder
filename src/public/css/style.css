@@ -1,0 +1,37 @@
+
+body{
+    background-color: burlywood;
+}
+
+.title{
+    margin: 40px;
+   color: white;
+   font-size: 45px;
+   text-align: center;
+   font-weight: bolder;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chat-container{
+    height: 200px;
+    max-height: 500px;
+    background-color: brown;
+    text-align: center;
+    margin: 150px;
+}
+h2{
+    margin: 30px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+header{
+    margin-top: 20px;
+}
+
+input{
+    font-size: 15px;
+}
